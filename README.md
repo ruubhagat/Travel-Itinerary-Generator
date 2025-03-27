@@ -45,9 +45,4 @@ chmod +x compile_and_run.sh
 
 # Compile and run the project
 ./compile_and_run.sh
-
-# Alternative for Windows or if script fails
-# mkdir bin
-# javac -d bin src/*/*.java
-# java -cp bin main.Main
 ```
